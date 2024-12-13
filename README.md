@@ -3,9 +3,11 @@
 Bienvenidos a mi pagina de GitHub!!
 
 ## Sobre Mí
-Soy un apasionado de la tecnología, los vidiojuegos y la programación. Actualmente estoy formandome en 4Geeks Academy en full stack
+Soy un apasionado de la tecnología, los vidiojuegos y la programación. Actualmente estoy formandome en 4Geeks Academy en full stack Developer
 
-### 
+## Lenguajes de Programación
+1. HTML/CSS
+2. JAVASCRIP 
 
 <!--
 **deividliz/deividliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
