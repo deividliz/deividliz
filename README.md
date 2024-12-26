@@ -5,7 +5,7 @@
 ***
 
 ## _Sobre Mí_ 😄 
-Soy un apasionado de la tecnología, los vidiojuegos y la programación. Actualmente estoy formandome en 4Geeks Academy en full stack Developer.
+Soy un apasionado de la tecnología, los videojuegos y la programación. Actualmente estoy formandome en 4Geeks Academy como full stack Developer.
 
 ***
 
